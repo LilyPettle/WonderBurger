@@ -1,3 +1,4 @@
 top bun\
-asbestos (added by aidan)\
-bottom bun
+cheese\
+asbestos\
+bottom bun\
